@@ -32,10 +32,6 @@ Alternatively, use the commands below for a quick installation:
 - ```$ sudo apt install nvidia-cuda-toolkit```
 - ```$ nvcc --version  # Verify the installation```
 
-
-## Installation Instructions
-
-
 ### 2. Clone the Repository
 
 Navigate to your ROS workspace source directory and clone this repository:
