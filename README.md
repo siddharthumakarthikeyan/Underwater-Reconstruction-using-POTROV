@@ -10,7 +10,39 @@ This repository serves as the official update stack for clients using **POTROV**
 - **Enhanced Data Processing**: Optimized pipeline for high-resolution sonar data capture and efficient 3D structural reconstruction.
 - **Easy Deployment**: Includes user-friendly configuration files and setup scripts for straightforward installation and updates.
 
-## Usage
+## Stack Compatibility
+
+This software stack is compatible with the following environments:
+
+- **ROS Version**: ROS Noetic
+- **Operating System**: Ubuntu 20.04 LTS
+- **CUDA Version**: CUDA 12.6 (for enhanced GPU performance)
+
+## Installation Instructions
+
+Follow these steps to download the stack and integrate it into your firmware:
+
+### 1. Install CUDA 12.6
+
+To leverage GPU capabilities, ensure that CUDA 12.6 is installed on your system. You can follow the official installation guide [here](https://developer.nvidia.com/cuda-downloads).
+
+Alternatively, use the commands below for a quick installation:
+
+```bash
+sudo apt update
+sudo apt install nvidia-cuda-toolkit
+nvcc --version  # Verify the installation
+
+## Installation Instructions
+
+
+### 2. Clone the Repository
+
+Navigate to your ROS workspace source directory and clone this repository:
+
+cd ~/path_to_your_src/
+git clone https://github.com/siddharthumakarthikeyan/Underwater-Reconstruction-using-POTROV.git
+
 
 Please refer to the documentation for detailed setup instructions and integration steps.
 
