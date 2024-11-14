@@ -4,6 +4,10 @@ This repository serves as the official update stack for clients using **POTROV**
 
 ![Mapping](https://github.com/siddharthumakarthikeyan/Underwater-Reconstruction-using-POTROV/blob/main/Mapping.gif)
 
+<div align="center">
+  <img src="https://github.com/siddharthumakarthikeyan/Underwater-Reconstruction-using-POTROV/blob/main/Mapping.gif" width="80%">
+</div>
+
 
 ## Key Features
 
