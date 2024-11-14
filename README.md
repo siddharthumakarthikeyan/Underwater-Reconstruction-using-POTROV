@@ -31,7 +31,7 @@ Alternatively, use the commands below for a quick installation:
 ```bash
 sudo apt update
 sudo apt install nvidia-cuda-toolkit
-nvcc --version  # Verify the installation
+nvcc --version  # Verify the installation```
 
 ## Installation Instructions
 
