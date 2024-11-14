@@ -3,7 +3,7 @@
 This repository serves as the official update stack for clients using **POTROV**, the custom ROV developed by *Potential Engineering, India*. POTROV is designed for underwater structural inspection and object detection, utilizing manual control for precise navigation. This repository provides the software stack and configuration files required for seamless integration, calibration, and updates.
 
 <div align="center">
-  <img src="https://github.com/siddharthumakarthikeyan/Underwater-Reconstruction-using-POTROV/blob/main/YOUR_IMAGE_NAME.png" width="80%">
+  <img src="https://github.com/siddharthumakarthikeyan/Underwater-Reconstruction-using-POTROV/blob/main/YOUR_IMAGE_NAME.png">
 </div>
 
 <div align="center">
