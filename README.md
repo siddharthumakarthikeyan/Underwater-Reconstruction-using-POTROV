@@ -1,6 +1,6 @@
 # Underwater Structural Reconstruction and Object Detection Stack for Potential Engineering - POTROV
 
-This repository serves as the official update stack for clients using **POTROV**, the custom ROV developed by *Potential Engineering, India*. POTROV is designed for various underwater search and rescue like underwater structural inspection and object detection. This package currently utilizing manual control and USBL data for precise localization and mapping of underwater scenes. This repository provides the software stack and configuration files required for seamless integration, calibration, and updates.
+This repository serves as the official update stack for clients using **POTROV**, the custom ROV developed by *Potential Engineering, India*. POTROV is designed for various underwater search and rescue operations like underwater structural inspection and object detection. This package currently utilizing manual control and USBL data for precise localization and mapping of underwater scenes. This repository provides the software stack and configuration files required for seamless integration, calibration, and updates.
 
 <div align="center">
   <img src="https://github.com/siddharthumakarthikeyan/Underwater-Reconstruction-using-POTROV/blob/main/Mapping_Output.png">
