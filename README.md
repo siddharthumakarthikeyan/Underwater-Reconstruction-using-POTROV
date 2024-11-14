@@ -7,7 +7,7 @@ This repository serves as the official update stack for clients using **POTROV**
 </div>
 
 <div align="center">
-  <img src="https://github.com/siddharthumakarthikeyan/Underwater-Reconstruction-using-POTROV/blob/main/Mapping.gif" width="80%">
+  <img src="https://github.com/siddharthumakarthikeyan/Underwater-Reconstruction-using-POTROV/blob/main/Mapping.gif" width="100%">
 </div>
 
 
