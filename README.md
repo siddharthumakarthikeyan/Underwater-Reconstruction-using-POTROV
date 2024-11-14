@@ -39,6 +39,20 @@ Navigate to your ROS workspace source directory and clone this repository:
 - ```$ cd ~/path_to_your_src/```
 - ```$ git clone https://github.com/siddharthumakarthikeyan/Underwater-Reconstruction-using-POTROV.git```
 
+### 3. Build the Workspace
+
+Build the ROS workspace using ```catkin_make```:
+
+- ```$ cd ../```
+- ```$ catkin_make```
+
+### 3. Run the script
+
+Run the updated script:
+
+- ```$ source devel/setup.bash```
+- ```$ run_reconstruct.sh```
+
 
 Please refer to the documentation for detailed setup instructions and integration steps.
 
