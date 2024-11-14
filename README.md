@@ -40,8 +40,8 @@ Alternatively, use the commands below for a quick installation:
 
 Navigate to your ROS workspace source directory and clone this repository:
 
-cd ~/path_to_your_src/
-git clone https://github.com/siddharthumakarthikeyan/Underwater-Reconstruction-using-POTROV.git
+- ```$ cd ~/path_to_your_src/```
+- ```$ git clone https://github.com/siddharthumakarthikeyan/Underwater-Reconstruction-using-POTROV.git```
 
 
 Please refer to the documentation for detailed setup instructions and integration steps.
