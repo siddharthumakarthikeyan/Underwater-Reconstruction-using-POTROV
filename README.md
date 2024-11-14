@@ -1,2 +1,3 @@
-# POTROV-Control
-POTROV with manual control and waypoint navigation
+# Underwater Structural Reconstruction and Object Detection using Manual Control
+
+>> Project Under Construction <<
