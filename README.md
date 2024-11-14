@@ -28,10 +28,10 @@ To leverage GPU capabilities, ensure that CUDA 12.6 is installed on your system.
 
 Alternatively, use the commands below for a quick installation:
 
-```bash
-sudo apt update
-sudo apt install nvidia-cuda-toolkit
-nvcc --version  # Verify the installation```
+- ```$ sudo apt update```
+- ```$ sudo apt install nvidia-cuda-toolkit```
+- ```$ nvcc --version  # Verify the installation```
+
 
 ## Installation Instructions
 
